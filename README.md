@@ -25,10 +25,10 @@ To-do list:
 
 ## Getting Started
    
-git clone https://github.com/daviles98/SocialMedia-Earthlings.git
-Set up your own H2 database with dummy credentials
-run on localhost:8080 server side
-npm start on react side
+*git clone https://github.com/daviles98/SocialMedia-Earthlings.git
+*Set up your own H2 database with dummy credentials
+*run on localhost:8080 server side
+*npm start on react side
 
 
 ## Usage
